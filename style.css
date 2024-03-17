@@ -58,3 +58,23 @@ body{
     border: none;
     margin-top: 10px;
 }
+
+#msg
+{
+    color: #ffffc7;
+    font-size: 8vmin;
+}
+
+.msg-container{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.hide
+{
+    display: none;
+}
