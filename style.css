@@ -35,6 +35,7 @@ body{
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
     color: #b0413e;
+    background-color: #ffffc7;
 }
 
 #reset
@@ -45,4 +46,15 @@ body{
     color: #fff;
     border-radius: 1rem;
     border: none;
+}
+
+#newgame
+{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    margin-top: 10px;
 }
